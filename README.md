@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This is my Portfolio app
+
+Built using react and deployed using gh-pages.
+
+Clone and edit to create a beautiful portfolio for yourself.
+
+
 
 ## Available Scripts
 
@@ -66,3 +72,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
